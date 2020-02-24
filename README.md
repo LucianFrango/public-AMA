@@ -32,3 +32,9 @@ into some of the older threads.
 If you have something quick and easy, just ping me on Twitter. I'm [@lucianfrango](https://twitter.com/lucianfrango) on
 Twitter.
 
+---
+
+### LinkedIn
+If GitHub or Twitter aren't really your thing, then how about LinkedIn. You can fine [my profile here](https://www.linkedin.com/in/lucianfranghiu/).
+
+
