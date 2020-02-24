@@ -35,6 +35,6 @@ Twitter.
 ---
 
 ### LinkedIn
-If GitHub or Twitter aren't really your thing, then how about LinkedIn. You can fine [my profile here](https://www.linkedin.com/in/lucianfranghiu/).
+If GitHub or Twitter aren't really your thing, then how about LinkedIn. You can find [my profile here](https://www.linkedin.com/in/lucianfranghiu/).
 
 
